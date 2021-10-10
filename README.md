@@ -21,10 +21,11 @@
 
 
 
-#### Live URL :
-#### Github URL :
+#### Live URL : https://jump89.github.io/code-refactor/index.html
+#### Github URL : https://github.com/Jump89/code-refactor
 
 
 #### Screen Shot Of Landing Page:
 
+![Screenshot of webiste](11images/Screen-Shot-finished-site.png)
 
