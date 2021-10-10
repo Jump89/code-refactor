@@ -21,7 +21,7 @@
 
 
 
-#### Live URL : https://jump89.github.io/code-refactor/
+#### Live URL : https://jump89.github.io/code-refactor/index.html
 #### Github URL : https://github.com/Jump89/code-refactor
 
 
