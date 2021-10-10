@@ -27,4 +27,5 @@
 
 #### Screen Shot Of Landing Page:
 
+![Screenshot of webiste](11images/Screen-Shot-finished-site.png)
 
